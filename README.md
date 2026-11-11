@@ -61,3 +61,18 @@ This repository currently contains the project report. Original source files and
 
 ## Notes
 The implemented feedback controller described in the report is proportional (P) control, rather than a complete PID controller.
+
+## Project Gallery
+
+### Actual Prototype and Project Team
+
+![Actual STM32 railway crossing prototype](real-prototype.jpg.jpg)
+
+*Our university team's physical railway crossing demonstrator.*
+
+### Conceptual System Illustration
+
+![AI-generated railway crossing illustration](system-concept.png.png)
+
+*AI-generated conceptual illustration, not a photograph of the actual hardware.*
+
