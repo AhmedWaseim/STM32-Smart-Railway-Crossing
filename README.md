@@ -57,8 +57,7 @@ According to the project report:
 ## Project Context
 Mechatronics Engineering university team project, Spring 2025.
 
-This repository currently contains the project report. Original source files and additional project materials may be added after verification and permission checks.
-
+This repository contains the university project report, photographs of the prototype, a conceptual illustration, and Embedded C source code. 
 ## Notes
 The implemented feedback controller described in the report is proportional (P) control, rather than a complete PID controller.
 
