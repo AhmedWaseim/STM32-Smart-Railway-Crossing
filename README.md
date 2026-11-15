@@ -63,11 +63,7 @@ The implemented feedback controller described in the report is proportional (P) 
 
 ## Project Gallery
 
-### Actual Prototype and Project Team
 
-![Actual STM32 railway crossing prototype](real-prototype.jpg.jpg)
-
-*Our university team's physical railway crossing demonstrator.*
 
 ### Conceptual System Illustration
 
